@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ramrachai Marma</h1>
-<h3 align="center">Professional frontend developer from Bangladesh</h3>
-<h4> I'm passionate about using technology to solve real-world problems and create innovative solutions. I specialize in frontend technologies but I have a solid grasp of backend technologies, including Django Rest Framework, Node.js, Express.js, MongoDB, MysQL. This holistic understanding allows me to bridge the gap between frontend and backend seamlessly, ensuring the delivery of fullstack cohesive and high-performing applications. I enjoy making interactive web animations. I thrive in collaborative environments where ideas flow freely, and creativity knows no bounds. My enthusiasm for interactive web animations is not just a skill; it's a way of adding a touch of magic to the digital realm.
+<h3 align="center">Professional Full-Stack developer (MERN + AWS) from Bangladesh</h3>
+<h4> As a passionate full-stack developer with 4 years of hands-on experience in the MERN (MongoDB, Express.js, React, Node.js) stack, I specialize in designing, developing, and deploying scalable web applications. Over the past year, I’ve enhanced my expertise by leveraging AWS cloud services for hosting, scaling, and optimizing applications, ensuring seamless performance and reliability. </h4>
 
-Let's connect and explore how my unique blend of frontend expertise, backend knowledge, and passion for innovation can contribute to your next big project!" </h4>
+With a strong foundation in both frontend and backend development, I thrive in building responsive UIs, efficient APIs, and robust database systems. I am well-versed in creating secure, high-performance applications and have a proven track record of delivering end-to-end solutions.
+
+Core Skills:
+
+- Full-Stack Development (MERN)  
+- Cloud Infrastructure (AWS EC2, Auto Scaling, S3)  
+- CI/CD Pipelines  
+- RESTful APIs & Authentication (NextAuth)   
+- Scalable Database Management (MongoDB)
+- Real-time chat and location tracking with socket.io and leaflet (map library)
+
+Always eager to explore new technologies and collaborate on impactful projects, I am passionate about solving complex problems through code. If you're looking for a versatile developer with experience in both cloud and application development, let’s connect! 
 
 
 
